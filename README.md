@@ -1,2 +1,5 @@
-# sesion_git
-Repositorio para practicas de sesiones Git
+# Repositorio para Sesiones de GIT
+
+##Primera sesion
+- Lista
+- Elemento
