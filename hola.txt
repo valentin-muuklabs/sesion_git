@@ -2,4 +2,3 @@ hola
 Esta es una nueva linea de texto
 Para el bootcamp
 de QA Minds
-hola
